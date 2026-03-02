@@ -7,7 +7,7 @@ subtitle: <a href='https://sites.google.com/view/chosuncds-eng/home'>Center for 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
 
