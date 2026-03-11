@@ -1,30 +1,14 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-11'
 papers:
-  JZEnn_AAAAAJ:-f6ydRqryjwC:
-    citations: 0
-    title: "Fonctions s\xE9mantico-pragmatiques dans le discours sp\xE9cialis\xE9: approche linguistique, TAL et IA"
-    year: '2025'
   JZEnn_AAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Building a Corpus of Medical Paraphrases in Romanian
-    year: '2021'
-  JZEnn_AAAAAJ:3fE2CSJIrl8C:
-    citations: 0
-    title: "Un corpus de reformulations m\xE9dicales pour l\u2019apprentissage automatique par r\xE9seaux de neurones"
-    year: '2022'
-  JZEnn_AAAAAJ:5nxA0vEk-isC:
-    citations: 0
-    title: "Annotation automatique des termes m\xE9dicaux pour l\u2019identification des marqueurs de reformulation m\xE9dicale"
     year: '2021'
   JZEnn_AAAAAJ:7PzlFSSx8tAC:
     citations: 0
     title: Small Language Models and their Performance in the Medical Field
     year: '2025'
-  JZEnn_AAAAAJ:8k81kl-MbHgC:
-    citations: 0
-    title: "Ressources pour l\u2019adaptation des textes dans le domaine m\xE9dical: le projet Adaptmed"
-    year: '2023'
   JZEnn_AAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: "Mariana Marin. Confesiune \u015Fi con\u015Ftiin\u0163\u0103 poetic\u0103."
@@ -53,10 +37,6 @@ papers:
     citations: 1
     title: "Approche interdisciplinaire de la notion de reformulation sous-phrastique m\xE9dicale: entre la linguistique, le TAL et l\u2019IA g\xE9n\xE9rative"
     year: '2025'
-  JZEnn_AAAAAJ:MXK_kJrjxJIC:
-    citations: 0
-    title: "\xC9tude contrastive des marqueurs de reformulation des termes m\xE9dicaux dans de corpus scientifiques et de vulgarisation m\xE9dicale"
-    year: '2022'
   JZEnn_AAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: Un corpus de reformulation des termes du Covid extrait des Archives du Web
@@ -89,6 +69,10 @@ papers:
     citations: 0
     title: 'LARGEMED: a Resource for Identifying and Generating Paraphrases for French Medical Terms'
     year: '2024'
+  JZEnn_AAAAAJ:YFjsv_pBGBYC:
+    citations: 0
+    title: 'Interdisciplinary Approach to the Concept of Sub-sentential Medical Paraphrase: Between Linguistics, NLP and Generative AI'
+    year: '2025'
   JZEnn_AAAAAJ:YsMSGLbcyi4C:
     citations: 6
     title: 'Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models'
@@ -117,10 +101,6 @@ papers:
     citations: 0
     title: 'Classifying Child-Directed Speech and Shared Book Reading from LENA: Language-Specific Modeling and Temporal Resolution Effects'
     year: '2026'
-  JZEnn_AAAAAJ:hqOjcs7Dif8C:
-    citations: 0
-    title: "Un corpus de reformulations dans le domaine m\xE9dical"
-    year: '2022'
   JZEnn_AAAAAJ:iH-uZ7U-co4C:
     citations: 0
     title: 'HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation'
@@ -129,21 +109,9 @@ papers:
     citations: 0
     title: Semantic and Pragmatic Annotation of Paraphrases in the Era of Large Language Models
     year: '2025'
-  JZEnn_AAAAAJ:j3f4tGmQtD8C:
-    citations: 0
-    title: Linguistic Analysis of Biomedical Texts with Natural Language Processing Methods and Large Language Models
-    year: '2025'
-  JZEnn_AAAAAJ:kNdYIx-mwKoC:
-    citations: 0
-    title: Adaptmed Project
-    year: '2024'
   JZEnn_AAAAAJ:k_IJM867U9cC:
     citations: 0
     title: 'TrackList: Tracing Back Query Linguistic Diversity for Head and Tail Knowledge in Open Large Language Models'
-    year: '2025'
-  JZEnn_AAAAAJ:mB3voiENLucC:
-    citations: 0
-    title: "Les n\xE9ologismes m\xE9dicaux sont-ils bien reformul\xE9s par l\u2019IA g\xE9n\xE9rative?"
     year: '2025'
   JZEnn_AAAAAJ:maZDTaKrznsC:
     citations: 0
