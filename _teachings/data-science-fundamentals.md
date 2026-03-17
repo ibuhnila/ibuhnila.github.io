@@ -1,97 +1,23 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
 
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
 ---
 
-## Course Overview
+## University of Lorraine, Nancy, France
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+- (2024-2025) Pragmatics (Linguistics Bachelors, 3rd year, Faculty of Human and Social Sciences, University of Lorraine)
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+## University of Strasbourg, Strasbourg, France
 
-## Prerequisites
+- (2020-2023) Web Technologies : HTML & CSS (Masters of Natural Language Processing, 1st year, Faculty of Languages, University of Strasbourg)
+- (2021-2023) Introduction to HTML & CSS (Bachelors of Applied Foreign Languages, 2nd year, Faculty of Languages, University of Strasbourg)
+- (2022-2023) Linguistic Analysis (Masters of Plurilingualism and Interculturality, 2nd year, Faculty of Languages, University of Strasbourg)
+- (2021-2023) Corpus Linguistics (Masters of Natural Language Processing (TdL), 1st year, Faculty of Languages, University of Strasbourg)
+- (2021-2023) Word Classes in Language and in Discourse (Bachelors of Modern Letters, 1st year, Faculty of Letters, University of Strasbourg)
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+## Mentoring Transdisciplinairy Projects
 
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+Module : Interdisciplinary Approach to Data Science (AISD) at the University of Strasbourg’s Mathematics and Computer Science Research Training Unit (UFR)
+Public: Master students
+- (2022-2023) Project: Statistical classification methods for medical reformulations
+- (2021-2022) Project: Automatic classification of medical reformulations
