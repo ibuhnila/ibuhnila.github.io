@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-25'
 papers:
   JZEnn_AAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -82,7 +82,7 @@ papers:
     title: 'Interdisciplinary Approach to the Concept of Sub-sentential Medical Paraphrase: Between Linguistics, NLP and Generative AI'
     year: '2025'
   JZEnn_AAAAAJ:YsMSGLbcyi4C:
-    citations: 6
+    citations: 7
     title: 'Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models'
     year: '2024'
   JZEnn_AAAAAJ:Zph67rFs4hoC:
