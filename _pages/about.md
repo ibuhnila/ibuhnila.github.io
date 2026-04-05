@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Center for Data Science in Humanities](https://sites.google.com/view/chosuncds-eng/home)</a>, Chosun University, Gwangju, South Korea
+subtitle: <a href='Center for Data Science in Humanities'>https://sites.google.com/view/chosuncds-eng/home</a>, Chosun University, Gwangju, South Korea
 
 profile:
   align: right
