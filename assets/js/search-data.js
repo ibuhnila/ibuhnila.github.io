@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "Ioana Buhnila&#39;s CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
