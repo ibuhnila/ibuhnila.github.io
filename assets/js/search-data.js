@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-confabulations-from-acl-publications-cap-a-dataset-for-scientific-hallucination-detection-was-accepted-to-lrec-2026",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-confabulations-from-acl-publications-cap-a-dataset-for-scientific-hallucination-detection-was-accepted-to-lrec-2026",
           title: 'Our paper, “Confabulations from acl publications (cap): A dataset for scientific hallucination detection”...',
           description: "",
           section: "News",},{id: "news-our-paper-halluguard-was-accepted-to-acl-2026-findings",
