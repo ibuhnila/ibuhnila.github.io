@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Confabulations from acl publications (cap): A dataset for scientific hallucination detection" was accepted to LREC 2026!🎊 Many thanks to the team 🙂: Gamba, Federica, Aman Sinha, Timothee Mickus, Raul Vazquez, Patanjali Bhamidipati, Claudio Savelli, Ahana Chattopadhyay, Laura A. Zanella, Yash Kankanampati, Binesh Arakkal Remesh, Aryan Ashok Chandramania, Rohit Agarwal, Chuyuan Li, Ioana Buhnila, Radhika Mamidi.
+Our paper, "Confabulations from acl publications (cap): A dataset for scientific hallucination detection" was accepted to LREC 2026!🎊
