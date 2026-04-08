@@ -403,8 +403,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-confabulations-from-acl-publications-cap-a-dataset-for-scientific-hallucination-detection-was-accepted-to-lrec-2026-many-thanks-to-the-team-gamba-federica-aman-sinha-timothee-mickus-raul-vazquez-patanjali-bhamidipati-claudio-savelli-ahana-chattopadhyay-laura-a-zanella-yash-kankanampati-binesh-arakkal-remesh-aryan-ashok-chandramania-rohit-agarwal-chuyuan-li-ioana-buhnila-radhika-mamidi",
+          title: 'Our paper, “Confabulations from acl publications (cap): A dataset for scientific hallucination detection”...',
           description: "",
           section: "News",},{id: "news-our-paper-halluguard-was-accepted-to-acl-2026-findings",
           title: '✨Our paper HalluGuard was accepted to ACL 2026 Findings!',
