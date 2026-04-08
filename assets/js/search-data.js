@@ -398,11 +398,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-our-paper-confabulations-from-acl-publications-cap-a-dataset-for-scientific-hallucination-detection-was-accepted-to-lrec-2026",
           title: 'Our paper, “Confabulations from acl publications (cap): A dataset for scientific hallucination detection”...',
           description: "",
