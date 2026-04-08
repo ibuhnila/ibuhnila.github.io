@@ -407,7 +407,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-halluguard-was-accepted-to-acl-2026-findings",
-          title: 'Our paper HalluGuard was accepted to ACL 2026 Findings!',
+          title: '✨Our paper HalluGuard was accepted to ACL 2026 Findings!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
