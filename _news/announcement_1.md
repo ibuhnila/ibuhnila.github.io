@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper HalluGuard was accepted to ACL 2026 Findings!
+✨Our paper HalluGuard was accepted to ACL 2026 Findings!
