@@ -3,9 +3,9 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: 
-nav: false
+nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
 I tought classes on Corpus Linguistics, Web Development Programming, French Linguistics.
