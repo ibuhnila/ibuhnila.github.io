@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://sites.google.com/view/chosuncds-eng/home'>Center for Data Science in Humanities</a>, Chosun University, Gwangju, South Korea
 
