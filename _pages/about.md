@@ -29,5 +29,4 @@ As HK Research Professor (post-doctoral position), I work on the Elderly Speech 
 
 Previously, I conducted research on the automatic processing of scientific articles on brain cancer using LLMs (Large Language Models), at the ATILF laboratory, University of Lorraine - CNRS, under Mathieu Constant's supervision.
 
-I obtained my PhD from the University of Strasbourg, with the thesis "An Automatic Method for Building a Paraphase Corpus" (In French, "Une méthode automatique de construction de corpus de reformulation"), under the supervision of Professor 
-Amalia Todirascu, and co-supervised by Professor Dan Tufiş from the Research Institute for Artificial Intelligence (RACAI) of the Romanian Academy.
+I obtained my PhD in Linguistics and NLP from the University of Strasbourg, with the thesis "An Automatic Method for Building a Paraphase Corpus" (French: Une méthode automatique de construction de corpus de reformulation), under the supervision of Professor Amalia Todirascu, and Professor Dan Tufiş from the Research Institute for Artificial Intelligence (RACAI) of the Romanian Academy.
