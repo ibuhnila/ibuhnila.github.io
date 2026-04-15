@@ -21,8 +21,8 @@ I also mentored students for research paper writing and research interships in N
 
 ## University of Strasbourg, France (in French)
 
-- 2020-2023: **Web Technologies : HTML & CSS** (Masters of Natural Language Processing, 1st year, Faculty of Languages, University of Strasbourg)
-- 2021-2023: **Introduction to HTML & CSS** (Bachelors of Applied Foreign Languages, 2nd year, Faculty of Languages, University of Strasbourg)
 - 2022-2023: **Linguistic Analysis** (Masters of Plurilingualism and Interculturality, 2nd year, Faculty of Languages, University of Strasbourg)
 - 2021-2023: **Corpus Linguistics** (Masters of Natural Language Processing (TdL), 1st year, Faculty of Languages, University of Strasbourg)
+- 2021-2023: **Introduction to HTML & CSS** (Bachelors of Applied Foreign Languages, 2nd year, Faculty of Languages, University of Strasbourg)
 - 2021-2023: **Word Classes in Language and in Discourse** (Bachelors of Modern Letters, 1st year, Faculty of Letters, University of Strasbourg)
+- 2020-2023: **Web Technologies: HTML & CSS** (Masters of Natural Language Processing, 1st year, Faculty of Languages, University of Strasbourg)
