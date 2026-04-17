@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-17'
 papers:
   JZEnn_AAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -52,7 +52,7 @@ papers:
   JZEnn_AAAAAJ:TFP_iSt0sucC:
     citations: 3
     title: 'Confabulations from acl publications (cap): A dataset for scientific hallucination detection'
-    year: '2025'
+    year: '2026'
   JZEnn_AAAAAJ:TQgYirikUcIC:
     citations: 0
     title: How Good are Multilingual Small Language Models at Explaining Medical Knowledge?
@@ -68,7 +68,7 @@ papers:
   JZEnn_AAAAAJ:UebtZRa9Y70C:
     citations: 3
     title: 'Chain-of-MetaWriting: Linguistic and Textual Analysis of How Small Language Models Write Young Students Texts'
-    year: '2024'
+    year: '2025'
   JZEnn_AAAAAJ:W7OEmFMy1HYC:
     citations: 1
     title: "Analyse qualitative et quantitative des \xABhallucinations\xBB g\xE9n\xE9r\xE9es automatiquement dans un corpus de reformulations m\xE9dicales"
@@ -112,7 +112,7 @@ papers:
   JZEnn_AAAAAJ:iH-uZ7U-co4C:
     citations: 0
     title: 'HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation'
-    year: '2025'
+    year: '2026'
   JZEnn_AAAAAJ:isC4tDSrTZIC:
     citations: 0
     title: Semantic and Pragmatic Annotation of Paraphrases in the Era of Large Language Models
