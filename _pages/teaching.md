@@ -8,8 +8,8 @@ nav_order: 4
 horizontal: false
 ---
 
-I tought classes on Corpus Linguistics, Web Development Programming, French Linguistics.
-I also mentored students for research paper writing and research interships in NLP and linguistics.
+I tought classes on Corpus Linguistics, Web Development Programming, and French Linguistics.
+I also mentored several students for research paper writing and research internships in NLP and linguistics.
 
 ## Chosun University, South Korea (in English)
 
