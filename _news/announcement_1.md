@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation" was accepted to ACL 2026 Findings!✨
+Our paper "HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation" was accepted to ACL 2026 Findings!🌟
