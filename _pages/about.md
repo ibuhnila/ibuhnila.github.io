@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
+    <p>previous website at ATILF</p>
     <p>https://perso.atilf.fr/ibuhnila/</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,4 +30,4 @@ As HK Research Professor (post-doctoral position), I work on the <a href="https:
 
 Previously, I conducted research on the automatic processing of scientific articles on brain cancer and medical knowlegde simplification using LLMs (Large Language Models), at ATILF, University of Lorraine-CNRS, under <a href="https://perso.atilf.fr/mconstant/">Mathieu Constant's</a> supervision.
 
-I obtained my PhD in Linguistics and NLP from the University of Strasbourg, with the thesis "An Automatic Method for Building a Paraphrase Corpus" (<a href="https://theses.fr/2023STRAC006">open-source</a> thesis in French), under the supervision of Professor <a href="https://scholar.google.com/citations?user=O9wabiwAAAAJ&hl=en&oi=ao">Amalia Todirascu</a>, and Professor <a href="https://scholar.google.com/citations?user=1d_Q6zwAAAAJ&hl=en">Dan Tufis</a> from the Research Institute for Artificial Intelligence (RACAI).
+I obtained my PhD in Linguistics and NLP from the University of Strasbourg, with the thesis "An Automatic Method for Building a Paraphrase Corpus" (<a href="https://theses.fr/2023STRAC006">open-source</a> thesis in French), under the supervision of Professor <a href="https://scholar.google.com/citations?user=O9wabiwAAAAJ&hl=en&oi=ao">Amalia Todirascu</a>, University of Strasbourg, and Professor <a href="https://scholar.google.com/citations?user=1d_Q6zwAAAAJ&hl=en">Dan Tufis</a> from the Research Institute for Artificial Intelligence (RACAI).
