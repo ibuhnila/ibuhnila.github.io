@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-05-08 00:00:00-0400
+date: 2026-06-08 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Two papers, "TrackList: Tracing Back Query Linguistic Diversity for Head and Tail Medical Knowledge in Open Large Language Models", and "Evaluating LLM-as-a-Judge for Medical Term Simplification", were accepted to BioNLP 2026!🩺
+I gave a talk during the NLP Seminar at <a href="https://www.nask.pl/en/institute">NASK National Research Institute</a>, Poland, about the paper "HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation" (ACL Findings 2026). Many thanks to <a href="https://scholar.google.com/citations?user=WyvjXQwAAAAJ&hl=en&oi=ao">Wojciech Kusa</a> for the invitation!
