@@ -9,8 +9,11 @@ horizontal: false
 ---
 
 ## Invited Talks
--  Buhnila Ioana. (2025). Evaluating Multilingual Small Language Models in Medical and Educational Settings. Invited talk at the Research Seminar in Language Technology – Spring 2025, University of Helsinki (online), May 2025, Helsinki, Finland. ⟨hal-05069660⟩
-- Buhnila Ioana. (2025). Small Language Models as AI Assistants in Cancer Research. Invited talk at the School of Computing and Communications, Lancaster University (online), Mar 2025, Lancaster, United Kingdom. ⟨hal-05009179⟩
+**#2026**
+- Buhnila Ioana. (2026). HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation” (ACL Findings 2026). Invited talk at the NLP Seminar, NASK National Research Institute, Poland.
+**#2025**
+- Buhnila Ioana. (2025). Evaluating Multilingual Small Language Models in Medical and Educational Settings. Invited talk at the Research Seminar in Language Technology – Spring 2025, University of Helsinki, May 2025, Helsinki, Finland. ⟨hal-05069660⟩
+- Buhnila Ioana. (2025). Small Language Models as AI Assistants in Cancer Research. Invited talk at the School of Computing and Communications, Lancaster University, Mar 2025, Lancaster, United Kingdom. ⟨hal-05009179⟩
 - Buhnila Ioana. (2025). Small Language Models and their Performance in the Medical Field. Invited talk at the Interdisciplinary Centre for Security, Reliability and Trust (SnT) lab seminar, University of Luxembourg, March 7, 2025, Luxembourg. ⟨hal-04990262⟩
 
 ## Conference Presentations with Paper Proceedings
