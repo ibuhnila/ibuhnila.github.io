@@ -52,7 +52,7 @@ horizontal: false
 
 **2025**
 - Buhnila, Ioana. (2025). <a href="https://zenodo.org/records/18918375"> Beyond LENA: Open-Source NLP & AI Tools for Audio Data</a>. _Tutorial Workshop on Long-Form Audio Data in Language & Cognition_, Center for Data Science in Humanities, Chosun University, September 2025, Gwangju, South Korea. ⟨10.5281/zenodo.18918375⟩. ⟨hal-05267180⟩
-- Buhnila, Ioana. (2025). Linguistic Analysis of Biomedical Texts with Natural Language Processing Methods and Large Language Models._ HK 3.0 Workshop "Language, Cognition, and Society: A Data-Driven Lifespan Perspective"_, Center for Data Science in Humanities, Chosun University, September 2025, Gwangju, South Korea. 
+- Buhnila, Ioana. (2025). Linguistic Analysis of Biomedical Texts with Natural Language Processing Methods and Large Language Models. _HK 3.0 Workshop "Language, Cognition, and Society: A Data-Driven Lifespan Perspective"_, Center for Data Science in Humanities, Chosun University, September 2025, Gwangju, South Korea. 
 - Buhnila Ioana. (2025). Les néologismes médicaux sont-ils bien reformulés par l’IA générative ? _Journée « Néologismes », Axe Lexiques_, ATILF,  Université de Lorraine-CNRS, May 16, 2025, Nancy, France. ⟨hal-05098005⟩
 - Buhnila Ioana. (2025). Fonctions sémantico-pragmatiques dans le discours spécialisé : approche linguistique, TAL et IA. _GR PAL, ATILF (Groupe de recherche Polysémie et Ambiguïté Lexicale)_, April 29, 2025, Nancy, France. ⟨hal-05065236⟩
 
@@ -65,13 +65,13 @@ horizontal: false
 - Todirascu Amalia & Buhnila Ioana. (2023). <a href="https://langues.unistra.fr/agenda/evenement/humanites-numeriques-en-pedagogie-et-en-recherche-a-la-faculte-des-langues">Projet AdaptMed – reformulations des termes du Covid</a>. _Humanités numériques en pédagogie et en recherche à la Faculté des Langues_ (poster). University of Strasbourg, September 28, 2023. 
 
 **2022**
-- Buhnila Ioana. (2022). <a href="https://diachronie.org/wp-content/uploads/2022/06/Programme_Colloque_Marqueurs-metalinguistiques_Iasi.pdf">Les marqueurs métalinguistiques de reformulation dans des textes médicaux scientifiques et grand public. Colloque International « Marqueurs métalinguistiques : émergence, discours, variation », June 8-9, 2022, University of Iasi, Romania. 
+- Buhnila Ioana. (2022). <a href="https://diachronie.org/wp-content/uploads/2022/06/Programme_Colloque_Marqueurs-metalinguistiques_Iasi.pdf">Les marqueurs métalinguistiques de reformulation dans des textes médicaux scientifiques et grand public. _Colloque International « Marqueurs métalinguistiques : émergence, discours, variation »_, June 8-9, 2022, University of Iasi, Romania. 
 - Buhnila Ioana. (2022). <a href="https://coldoc2022.wixsite.com/website/programme-1">Étude contrastive des marqueurs de reformulation des termes médicaux dans de corpus scientifiques et de vulgarisation médicale</a>. _COLDOC22, Colloque de doctorants et de jeunes chercheurs en Sciences du langage du laboratoire MoDyCo (CNRS UMR 7114)_, May 30-31, 2022, Paris Nanterre University. 
 - Buhnila Ioana. (2022). Un corpus de reformulations dans le domaine médical. _Séminaire « Lexique(s), discours et transposition(s) », Thème 1, LiLPa UR 1339_, 10 juin 2022, Université de Strasbourg.
 - Buhnila Ioana. (2022). Un corpus de reformulations médicales pour l’apprentissage automatique par réseaux de neurones. _Doctoriales de LiLPa_, 24 juin 2022, Université de Strasbourg.
 
 **2021**
-- Buhnila Ioana. (2021). Annotation automatique des termes médicaux pour l’identification des marqueurs de reformulation médicale. Doctoriales de LiLPa, 25 juin 2021, Université de Strasbourg.
+- Buhnila Ioana. (2021). Annotation automatique des termes médicaux pour l’identification des marqueurs de reformulation médicale. _Doctoriales de LiLPa_, 25 juin 2021, Université de Strasbourg.
 
 ## Science Popularization Talks
 
