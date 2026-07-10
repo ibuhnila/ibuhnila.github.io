@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-10'
 papers:
+  JZEnn_AAAAAJ:2P1L_qKh6hAC:
+    citations: 0
+    title: How Good are Multilingual Small Language Models at Explaining Medical Knowledge?
+    year: '2025'
   JZEnn_AAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Building a Corpus of Medical Paraphrases in Romanian
@@ -13,10 +17,6 @@ papers:
     citations: 0
     title: Evaluating LLM-as-a-Judge for Medical Term Simplification
     year: '2026'
-  JZEnn_AAAAAJ:7PzlFSSx8tAC:
-    citations: 0
-    title: Small Language Models and their Performance in the Medical Field
-    year: '2025'
   JZEnn_AAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: "Mariana Marin. Confesiune \u015Fi con\u015Ftiin\u0163\u0103 poetic\u0103."
@@ -25,10 +25,6 @@ papers:
     citations: 0
     title: "Paul Cornea: dou\u0103 ipostaze contemporane ale lectorului"
     year: '2014'
-  JZEnn_AAAAAJ:GnPB-g6toBAC:
-    citations: 0
-    title: "Actes de la journ\xE9e d\u2019\xE9tude sur l\u2019utilisation des LLM \xE0 l\u2019h\xF4pital"
-    year: '2026'
   JZEnn_AAAAAJ:HDshCWvjkbEC:
     citations: 0
     title: 'ATILF at NTCIR-18 RadNLP 2024 Shared Task: With less radiology reports, comes less performance'
@@ -45,10 +41,6 @@ papers:
     citations: 0
     title: "Ressources pour l\u2019adaptation des textes dans le domaine m\xE9dical: le projet Adaptmed"
     year: '2023'
-  JZEnn_AAAAAJ:L8Ckcad2t8MC:
-    citations: 0
-    title: Small Language Models as AI Assistants in Cancer Research
-    year: '2025'
   JZEnn_AAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: "Annotation lexicale et pragmatique de termes m\xE9dicaux et leurs reformulations"
@@ -77,10 +69,6 @@ papers:
     citations: 3
     title: 'Confabulations from acl publications (cap): A dataset for scientific hallucination detection'
     year: '2026'
-  JZEnn_AAAAAJ:TQgYirikUcIC:
-    citations: 0
-    title: How Good are Multilingual Small Language Models at Explaining Medical Knowledge?
-    year: '2025'
   JZEnn_AAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: 'Erreurs d''apprenants: typologie et annotations'
@@ -125,10 +113,6 @@ papers:
     citations: 0
     title: 'Tutorial: Whisper Tools for Long-form Audio Data Processing'
     year: '2026'
-  JZEnn_AAAAAJ:hFOr9nPyWt4C:
-    citations: 0
-    title: Evaluating Multilingual Small Language Models in Medical and Educational Settings
-    year: '2025'
   JZEnn_AAAAAJ:hMod-77fHWUC:
     citations: 0
     title: 'Classifying Child-Directed Speech and Shared Book Reading from LENA: Language-Specific Modeling and Temporal Resolution Effects'
@@ -141,10 +125,6 @@ papers:
     citations: 1
     title: Semantic and Pragmatic Annotation of Paraphrases in the Era of Large Language Models
     year: '2025'
-  JZEnn_AAAAAJ:k_IJM867U9cC:
-    citations: 0
-    title: 'TrackList: Tracing Back Query Linguistic Diversity for Head and Tail Knowledge in Open Large Language Models'
-    year: '2026'
   JZEnn_AAAAAJ:lSLTfruPkqcC:
     citations: 0
     title: Guide d'annotation manuelle des expressions polylexicales verbales et nominales
