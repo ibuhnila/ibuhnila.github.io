@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-15'
 papers:
   JZEnn_AAAAAJ:2P1L_qKh6hAC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: "\xC9valuation d\u2019un g\xE9n\xE9rateur automatique de reformulations m\xE9dicales"
     year: '2023'
   JZEnn_AAAAAJ:UebtZRa9Y70C:
-    citations: 4
+    citations: 5
     title: 'Chain-of-MetaWriting: Linguistic and Textual Analysis of How Small Language Models Write Young Students Texts'
     year: '2025'
   JZEnn_AAAAAJ:W7OEmFMy1HYC:
