@@ -17,7 +17,7 @@ horizontal: false
 - Buhnila Ioana. (2025). Small Language Models as AI Assistants in Cancer Research. Invited talk at the _School of Computing and Communications, Lancaster University_, March 2025, Lancaster, United Kingdom.
 - Buhnila Ioana. (2025). Small Language Models and their Performance in the Medical Field. Invited talk at the _Interdisciplinary Centre for Security, Reliability and Trust (SnT) lab seminar, University of Luxembourg_, March 2025, Luxembourg.
 
-## Conference Presentations with Paper Proceedings
+## Conference & Workshop Presentations with Paper Proceedings
 **2025**
 - Buhnila, Ioana. (2025). LLM-as-a-Judge Evaluation for Medical Knowledge: A Case Study on Romanian Paraphrase Generation. 3rd Conference on Recent Advances in Digital Humanities - RADH 2025, November 2025, Craiova, Romania. ⟨hal-05394523⟩
 - Buhnila, Ioana (2025). Semantic and Pragmatic Annotation of Paraphrases in the Era of Large Language Models. _The 50th Anniversary International Conference of the Linguistic Society of Korea_, "The Growth, Challenges, and Future of Modern Linguistics in Korea", October 2025, Seoul, South Korea. ⟨hal-05348063⟩
@@ -44,10 +44,11 @@ horizontal: false
 **2019**
 - Todirascu Amalia, Marion Cargill & Ioana Buhnila. (2019). Erreurs d’apprenants : typologie et annotations. In _10e Journées Internationales de la Linguistique de Corpus_. Grenoble, France. ⟨hal-02940844⟩
 
-## Conference & Seminar Presentations
+## Conference & Workshop Presentations
 
 **2026**
-- Louise Robert, Kevin Yauy, Zeno Loi, Guilain Bochu, Ioana Buhnila, David Morquin. (2026). <a href= "https://inria.hal.science/hal-05556971/file/actes_llm_hopital_fr.pdf"> Utilisation en pratique courante d’un LLM (OSS-120B) pour la génération des documents de sortie : évaluation multidimensionnelle dans le cadre d’un essai randomisé contrôlé aux Urgences Pédiatriques</a>. _Actes de la journée d’étude sur l’utilisation des LLM à l’hôpital. Journée llm@hopital.fr (Journée d'étude ATALA)_, Éditeurs : Romain Michelucci, Bastien Rance, Adrien Coulet, March 16-17, 2026, Paris, France. ⟨hal-05556971⟩
+- Ioana Buhnila, Eon-Suk Ko, Chanjun Chun, Jae-Hun Jung, Jiho Lee,  Sung Hyu Chon. (2026). Evaluating Whisper-Based Automatic Transcription of Korean Child-Directed Speech. 2026 Spring Joint Conference of the Korean Society of Phonetics and the Korean Society of Phonology, "Exploring the New Landscape of Speech Sciences: Key Issues, Data, and Methods in Focus", Jun 2026, Seoul, South Korea. ⟨hal-05670324⟩
+- Louise Robert, Kevin Yauy, Zeno Loi, Guilain Bochu, Ioana Buhnila, David Morquin. <a href= "https://inria.hal.science/hal-05556971/file/actes_llm_hopital_fr.pdf"> Utilisation en pratique courante d’un LLM (OSS-120B) pour la génération des documents de sortie : évaluation multidimensionnelle dans le cadre d’un essai randomisé contrôlé aux Urgences Pédiatriques</a>. _Actes de la journée d’étude sur l’utilisation des LLM à l’hôpital. Journée llm@hopital.fr (Journée d'étude ATALA)_, Éditeurs : Romain Michelucci, Bastien Rance, Adrien Coulet, March 16-17, 2026, Paris, France. ⟨hal-05556971⟩
 - Buhnila, Ioana. (2026).  <a href="https://zenodo.org/records/18918477"> Tutorial: Whisper Tools for Long-form Audio Data Processing</a>. _3rd POSTECH MINDS-Chosun CDS Joint Workshop "Human Language Acquisition through Machine Learning and AI"_, January 2026, Jeju Island, South Korea. ⟨10.5281/zenodo.18918477⟩. ⟨hal-05517236⟩.
 
 **2025**
