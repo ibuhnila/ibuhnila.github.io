@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-03'
 papers:
   JZEnn_AAAAAJ:2P1L_qKh6hAC:
     citations: 0
     title: How Good are Multilingual Small Language Models at Explaining Medical Knowledge?
     year: '2025'
   JZEnn_AAAAAJ:2osOgNQ5qMEC:
-    citations: 4
+    citations: 5
     title: Building a Corpus of Medical Paraphrases in Romanian
     year: '2021'
   JZEnn_AAAAAJ:35N4QoGY0k4C:
@@ -66,7 +66,7 @@ papers:
     title: Un corpus de reformulation des termes du Covid extrait des Archives du Web
     year: '2023'
   JZEnn_AAAAAJ:TFP_iSt0sucC:
-    citations: 3
+    citations: 4
     title: 'Confabulations from acl publications (cap): A dataset for scientific hallucination detection'
     year: '2026'
   JZEnn_AAAAAJ:Tyk-4Ss8FVUC:
@@ -123,18 +123,22 @@ papers:
     year: '2026'
   JZEnn_AAAAAJ:isC4tDSrTZIC:
     citations: 1
-    title: Semantic and Pragmatic Annotation of Paraphrases in the Era of Large Language Models
+    title: Semantic and pragmatic annotation of paraphrases in the era of large language models
     year: '2025'
   JZEnn_AAAAAJ:lSLTfruPkqcC:
     citations: 0
     title: Guide d'annotation manuelle des expressions polylexicales verbales et nominales
+    year: '2026'
+  JZEnn_AAAAAJ:ldfaerwXgEUC:
+    citations: 0
+    title: Automated Classification of Child-Directed Speech and Shared Book Reading from LENA Recordings in Korean
     year: '2026'
   JZEnn_AAAAAJ:maZDTaKrznsC:
     citations: 0
     title: 'LLM-as-a-Judge Evaluation for Medical Knowledge: A Case Study on Romanian Paraphrase Generation'
     year: '2025'
   JZEnn_AAAAAJ:qjMakFHDy7sC:
-    citations: 4
+    citations: 5
     title: Identifying medical paraphrases in scientific versus popularization texts in french for laypeople understanding
     year: '2022'
   JZEnn_AAAAAJ:r0BpntZqJG4C:
@@ -146,7 +150,7 @@ papers:
     title: "Semantic and Pragmatic Properties of LLM\u2019s \"Hallucinations\" in the Medical Field"
     year: '2024'
   JZEnn_AAAAAJ:u-x6o8ySG0sC:
-    citations: 5
+    citations: 6
     title: "Le r\xF4le des marqueurs et indicateurs dans l\u2019analyse lexicale et s\xE9mantico-pragmatique de reformulations m\xE9dicales"
     year: '2022'
   JZEnn_AAAAAJ:vV6vV6tmYwMC:
@@ -154,6 +158,6 @@ papers:
     title: Evaluating Whisper-Based Automatic Transcription of Korean Child-Directed Speech
     year: '2026'
   JZEnn_AAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: "Simplification lexicale entre les textes scientifiques et les textes de vulgarisation du domaine de la m\xE9decine"
     year: '2018'
