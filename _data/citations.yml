@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   JZEnn_AAAAAJ:2P1L_qKh6hAC:
     citations: 0
@@ -118,7 +118,7 @@ papers:
     title: 'Classifying Child-Directed Speech and Shared Book Reading from LENA: Language-Specific Modeling and Temporal Resolution Effects'
     year: '2026'
   JZEnn_AAAAAJ:iH-uZ7U-co4C:
-    citations: 1
+    citations: 3
     title: 'HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation'
     year: '2026'
   JZEnn_AAAAAJ:isC4tDSrTZIC:
