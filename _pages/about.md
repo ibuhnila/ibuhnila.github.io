@@ -27,6 +27,7 @@ latest_posts:
 ---
 
 As HK Research Professor (post-doctoral position), I work on the <a href="https://sites.google.com/view/chosuncds-eng/about-us/HK_Project">Elderly Speech Korea Project</a> (Language Biomarkers and AI in Neurocognitive Disorders), under the supervision of Professor <a href="https://sites.google.com/site/eonsuk/home">Eon-Suk Ko</a>. My research focuses on analyzing linguistic biomarkers of cognitive impairment in neurocognitive disorders and Alzheimer’s dementia, using open-source NLP and AI tools for Korean long-form speech data. 
+
 I am also involved in the research project “Language, Cognition and Society,” where I work on evaluating open-source AI tools, such as Whisper, on recordings of conversations between parents and children in Korean. My research objective is to determine what linguistic measures (lexical, semantic) from the automatic transcripts remain reliable for child language development studies.
 
 Previously, I conducted research on the automatic processing of scientific articles on brain cancer and medical knowlegde simplification using Large Language Models, at ATILF, University of Lorraine-CNRS, under Professor <a href="https://perso.atilf.fr/mconstant/">Mathieu Constant's</a> supervision.
