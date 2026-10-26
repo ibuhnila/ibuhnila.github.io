@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lecturer and Researcher in NLP, University of Strasbourg, France
+subtitle: <a href="https://www.unistra.fr/fr">Lecturer and Researcher in NLP, LiLPa, University of Strasbourg, France</a>
 
 profile:
   align: right
