@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a junior Lecturer and Researcher (ATER) at the University of Strasbourg where I teach various Natural Language Processing (NLP) and Generative Artificial Intelligence (AI) related classes for humanities and linguistics students. 
+I am a junior Lecturer and Researcher (ATER) at the University of Strasbourg, where I teach various Natural Language Processing (NLP) and Generative Artificial Intelligence (AI) related classes for humanities and linguistics students. 
 
 Previously, I worked as a Research Professor (post-doctoral position) on the <a href="https://sites.google.com/view/chosuncds-eng/about-us/HK_Project">Elderly Speech Korea Project</a>, at Chosun University, South Korea, under the supervision of Professor <a href="https://sites.google.com/site/eonsuk/home">Eon-Suk Ko</a>. Here, my research focuses on analyzing linguistic biomarkers of cognitive impairment in neurocognitive disorders and Alzheimer’s dementia, using open-source NLP and AI tools for Korean long-form speech data. I am also involved in evaluating open-source AI tools for automatically transcription of child-directed speech in Korean, while using NLP tools to analyze lexical and semantic patterns for child language development studies.
 
