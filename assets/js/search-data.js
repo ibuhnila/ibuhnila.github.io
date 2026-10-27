@@ -420,7 +420,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-during-the-nlp-seminar-at-nask-national-research-institute-poland-about-the-paper-halluguard-evidence-grounded-small-reasoning-models-to-mitigate-hallucinations-in-retrieval-augmented-generation-acl-findings-2026-many-thanks-to-wojciech-kusa-for-the-invitation",
           title: 'I gave a talk during the NLP Seminar at NASK National Research Institute,...',
           description: "",
-          section: "News",},{id: "news-i-gave-a-talk-at-postech-minds-pohang-south-korea-on-natural-language-processing-and-large-language-models-methods-for-the-linguistic-analysis-of-adult-and-child-texts-감사합니다-to-professor-jae-hun-jung-for-inviting-me-to-present-my-nlp-work-to-a-mathematics-and-data-science-audience",
+          section: "News",},{id: "news-i-gave-a-talk-at-postech-minds-pohang-south-korea-on-natural-language-processing-and-large-language-models-methods-for-the-linguistic-analysis-of-adult-and-child-texts-감사합니다-to-professor-jae-hun-jung-for-welcoming-me-to-his-mathematics-amp-amp-data-science-team",
           title: 'I gave a talk at POSTECH MINDS, Pohang, South Korea, on “Natural Language...',
           description: "",
           section: "News",},{id: "projects-project-1",
